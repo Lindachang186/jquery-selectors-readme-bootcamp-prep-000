@@ -9,5 +9,5 @@ function lastImageSelector() {
 }
 
 function ninjaBabySelector(){
-  $("img[id ='baby-ninja']")
+  return $("img[id ='baby-ninja']")
 }
