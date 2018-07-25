@@ -13,5 +13,5 @@ function ninjaBabySelector(){
 }
 
 function divSelector(){
-  return ('.pic')
+  return ('div:.pic')
 }
